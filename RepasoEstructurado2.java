@@ -61,7 +61,7 @@ public class RepasoEstructurado2 {
 //          System.out.println("La cantidad en dólares es: " + dolares);
           
         
-                 // Cálculo del Área y perímetro de un círculo
+                 // Cálculo del �?rea y perímetro de un círculo
 //   
 //        double radio = Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese el radio del círculo"));
 //
@@ -81,7 +81,7 @@ public class RepasoEstructurado2 {
             double perimetroRombo = 4 * lado;
 
             System.out.println("El área del rombo es: " + areaRombo+"cm2");
-            System.out.println("El perímetro del rombo es: " + perimetroRombo);
+            System.out.println("El perímetro del rombo es: " + perimetroRombo+"cm");
             
             
         
